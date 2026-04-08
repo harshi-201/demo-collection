@@ -132,6 +132,7 @@ function OurStory() {
           ))}
         </div>
       </section>
+      
 {/* ================= INSTAGRAM GALLERY ================= */}
       <InstagramSection />
       

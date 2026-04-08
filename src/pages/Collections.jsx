@@ -33,12 +33,12 @@ import skirts5 from "../assets/SHOPIMG/Skirts/Skirts5.jpg";
 import skirts6 from "../assets/SHOPIMG/Skirts/Skirts6.jpg";
 
 // PANTS
-import pants1 from "../assets/SHOPIMG/Pants/Pents1.jpg";
-import pants2 from "../assets/SHOPIMG/Pants/Pents2.jpg";
-import pants3 from "../assets/SHOPIMG/Pants/Pents3.jpg";
-import pants4 from "../assets/SHOPIMG/Pants/Pents4.jpg";
-import pants5 from "../assets/SHOPIMG/Pants/Pents5.jpg";
-import pants6 from "../assets/SHOPIMG/Pants/Pents6.jpg";
+import pants1 from "../assets/SHOPIMG/Pants/pents1.jpg";
+import pants2 from "../assets/SHOPIMG/Pants/pents2.jpg";
+import pants3 from "../assets/SHOPIMG/Pants/pents3.jpg";
+import pants4 from "../assets/SHOPIMG/Pants/pents4.jpg";
+import pants5 from "../assets/SHOPIMG/Pants/pents5.jpg";
+import pants6 from "../assets/SHOPIMG/Pants/pents6.jpg";
 
 // DRESSES
 import dress1 from "../assets/SHOPIMG/Dresses/Dresses1.jpg";

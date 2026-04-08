@@ -5,8 +5,8 @@ import InstagramSection from "../components/instagram";
 import heroimg1 from "../assets/heroimg/herobg2.jpg";
 import heroimg3 from "../assets/heroimg/herobg3.jpg";
 import herobg4 from "../assets/heroimg/herobg.jpg";
-import Casual from "../assets/bestsaller-img/casual-shirt.avif";
-import Summerdress from "../assets/bestsaller-img/summer-Dress.avif";
+import Casual from "../assets/bestsaller-img/Casual-Shirt.avif";
+
 import celebrity1 from "../assets/celebratyimg/celebraty1.jpg";
 import celebrity2 from "../assets/celebratyimg/celebraty2.jpg";
 import fammally from "../assets/heroimg/famally.jpg";
