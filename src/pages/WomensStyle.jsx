@@ -44,7 +44,7 @@ import Skirts4 from "../assets/women/Skirts4.jpg";
 import Skirts5 from "../assets/women/Skirts5.jpg";
 import Skirts6 from "../assets/women/Skirts6.jpg";
 
-import Shorts1 from "../assets/women/shorts1.jpg";
+import Shorts1 from "../assets/women/Shorts1.jpg";
 import Shorts2 from "../assets/women/Shorts2.jpg";
 import Shorts3 from "../assets/women/Shorts3.jpg";
 import Shorts4 from "../assets/women/Shorts4.jpg";

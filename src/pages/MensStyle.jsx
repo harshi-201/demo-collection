@@ -9,12 +9,12 @@ import shirt4 from "../assets/mens/shirts4.jpg";
 import shirt5 from "../assets/mens/shirts5.jpg";
 import shirt6 from "../assets/mens/shirts6.jpg";
 
-import jeans1 from "../assets/mens/jeans1.jpg";
-import jeans2 from "../assets/mens/jeans2.jpg";
-import jeans3 from "../assets/mens/jeans3.jpg";
-import jeans4 from "../assets/mens/jeans4.jpg";
-import jeans5 from "../assets/mens/jeans5.jpg";
-import jeans6 from "../assets/mens/jeans6.jpg";
+import jeans1 from "../assets/mens/Jeans1.jpg";
+import jeans2 from "../assets/mens/Jeans2.jpg";
+import jeans3 from "../assets/mens/Jeans3.jpg";
+import jeans4 from "../assets/mens/Jeans4.jpg";
+import jeans5 from "../assets/mens/Jeans5.jpg";
+import jeans6 from "../assets/mens/Jeans6.jpg";
 
 import blazer1 from "../assets/mens/Blazer1.jpg";
 import blazer2 from "../assets/mens/Blazer2.jpg";
@@ -23,18 +23,18 @@ import blazer4 from "../assets/mens/Blazer4.jpg";
 import blazer5 from "../assets/mens/Blazer5.jpg";
 import blazer6 from "../assets/mens/Blazer6.webp";
 
-import tshirt1 from "../assets/mens/t-Shirt1.jpg";
-import tshirt2 from "../assets/mens/t-Shirt2.webp";
-import tshirt3 from "../assets/mens/t-Shirt3.webp";
-import tshirt4 from "../assets/mens/t-Shirt4.webp";
-import tshirt5 from "../assets/mens/t-Shirt5.jpg";
+import tshirt1 from "../assets/mens/T-Shirt1.jpg";
+import tshirt2 from "../assets/mens/T-Shirt2.webp";
+import tshirt3 from "../assets/mens/T-Shirt3.webp";
+import tshirt4 from "../assets/mens/T-Shirt4.webp";
+import tshirt5 from "../assets/mens/T-Shirt5.jpg";
 
-import jacket1 from "../assets/mens/stylish-jacket1.jpg";
-import jacket2 from "../assets/mens/stylish-jacket2.jpg";
-import jacket3 from "../assets/mens/stylish-jacket3.jpg";
-import jacket4 from "../assets/mens/stylish-jacket4.jpg";
-import jacket5 from "../assets/mens/stylish-jacket5.jpg";
-import jacket6 from "../assets/mens/stylish-jacket6.jpg";
+import jacket1 from "../assets/mens/Stylish-Jacket1.jpg";
+import jacket2 from "../assets/mens/Stylish-Jacket2.jpg";
+import jacket3 from "../assets/mens/Stylish-Jacket3.jpg";
+import jacket4 from "../assets/mens/Stylish-Jacket4.jpg";
+import jacket5 from "../assets/mens/Stylish-Jacket5.jpg";
+import jacket6 from "../assets/mens/Stylish-Jacket6.jpg";
 
 import pant1 from "../assets/mens/Pant1.jpg";
 import pant2 from "../assets/mens/Pant2.jpg";
@@ -43,12 +43,12 @@ import pant4 from "../assets/mens/Pant4.jpg";
 import pant5 from "../assets/mens/Pant5.jpg";
 import pant6 from "../assets/mens/Pant6.webp";
 
-import kurta1 from "../assets/mens/kurta1.jpg";
-import kurta2 from "../assets/mens/kurta2.jpg";
-import kurta3 from "../assets/mens/kurta3.jpg";
-import kurta4 from "../assets/mens/kurta4.jpg";
-import kurta5 from "../assets/mens/kurta5.jpg";
-import kurta6 from "../assets/mens/kurta6.jpg";
+import kurta1 from "../assets/mens/Kurta1.jpg";
+import kurta2 from "../assets/mens/Kurta2.jpg";
+import kurta3 from "../assets/mens/Kurta3.jpg";
+import kurta4 from "../assets/mens/Kurta4.jpg";
+import kurta5 from "../assets/mens/Kurta5.jpg";
+import kurta6 from "../assets/mens/Kurta6.jpg";
 
 // 🔥 PRODUCTS
 const products = [
